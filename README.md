@@ -9,3 +9,5 @@ mathPattern.py follows this one math pattern where if you take any positive inte
 
 
 Triangles.py is just a collection of various trignometry calculators, I used for homework. Using it at a backbone for something bigger.
+
+Pascal Triangle was made for leetcode problem.
