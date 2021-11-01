@@ -1,13 +1,14 @@
 # RandomMath
-Random math projects, with random math things I learnt
+Random math projects, with random stuff I made
 
 
 --------------------------------------------------------------------------------
 
 
-mathPattern.py follows this one math pattern where if you take any positive integer, if the number is even we divide by 2 if it is odd you multiply by 3 and add 1. Find a number that doesn't fit the pattern.
+mathPattern.py follows the collatz conjecture
 
-
-Triangles.py is just a collection of various trignometry calculators, I used for homework. Using it at a backbone for something bigger.
+Triangles.py is just a collection of various trignometry calculators, I used for homework. Using it at as backbone for something bigger.
 
 Pascal Triangle was made for leetcode problem.
+
+Vectors is also part of a bigger project but used the small part for homework.
